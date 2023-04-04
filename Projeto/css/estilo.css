@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-image: url(../img/world.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%;
+    overflow-x: hidden;
+}
+
+#subtitle{
+    text-align: center;
+    font-family: Chiller;
+    color: rgb(179, 0, 0);
+    font-size: 30px;
+}
+
+#title{
+    text-align: center;
+    font-family: Chiller;
+    font-size: 70px;
+    color: rgb(179, 0, 0);
+    font-weight: bold;
+    padding-top: 10px;
+}
+
+.historia{
+    padding: 20px;
+}
+
+ul {
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+    color: aliceblue;
+}
+
+#V{
+    width: 50%;
+}
